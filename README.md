@@ -33,7 +33,7 @@ This simple weather app allows users to check the current weather of a specific 
 
 ## Live Demo
 
-For a live demo, visit Weather App Demo. https://Onahi7.github.io/weather-app-js/
+For a live demo, visit Weather App Demo. [https://weatherly-4r2i68p2a-onahi7s-projects.vercel.app/]
 
 
 
