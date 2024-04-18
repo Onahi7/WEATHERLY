@@ -122,7 +122,7 @@ setInterval(() => {
 }, 600000);
 
 function sendEmail(to, subject, body) {
-    emailjs.send('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', {
+    emailjs.send('service_z8vdl0q', 'template_28e1nbv', {
         to: to,
         subject: subject,
         body: body
